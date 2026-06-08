@@ -112,9 +112,13 @@ li {
 }
 
 .menu--open .menu__backdrop {
-    display: flex;
     visibility: visible;
     opacity: 1;
+}
+
+.menu--open {
+    max-height: 100vh;
+    overflow-y: hidden;
 }
 
 .menu__links {
