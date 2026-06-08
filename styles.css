@@ -398,6 +398,18 @@ footer {
     padding: 0 8px;
 }
 
+/*
+
+SMALL PHONES, LARGE SMARTPHONES, & TABLETS
+
+*/
+
+/*
+
+SMALL PHONES, LARGE SMARTPHONES, & TABLETS
+
+*/
+
 @media (max-width: 550px) {
     .nav__links {
         display: none;
